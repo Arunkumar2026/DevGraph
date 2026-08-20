@@ -475,28 +475,6 @@ This allows the application to remain understandable when data is unavailable or
 
 ---
 
-# Screenshots
-
-Screenshots of the deployed application will be added here.
-
-### Dashboard
-
-*Add dashboard screenshot here.*
-
-### Developer Graph
-
-*Add developer graph screenshot here.*
-
-### Project / Technology Graph
-
-*Add project or technology graph screenshot here.*
-
-### Search
-
-*Add search screenshot here.*
-
----
-
 # Live Application
 
 **DevGraph:**
